@@ -131,7 +131,7 @@ WEBHOOK:
 
 CONFIG_SESSION_PHONE:
   # Name that will be displayed on smartphone connection
-  CLIENT: "Evolution API"
+  CLIENT: "UniAtende API"
   NAME: Chrome # Chrome | Firefox | Edge | Opera | Safari
 
 # Set qrcode display limit
@@ -147,7 +147,7 @@ AUTHENTICATION:
   # Define a global apikey to access all instances
   API_KEY:
     # OBS: This key must be inserted in the request header to create an instance.
-    KEY: B6D711FCDE4D4FD5936544120E713976
+    KEY: a1154cb48f62b3bc5d06caf2d93493aa
   # Expose the api key on return from fetch instances
   EXPOSE_IN_FETCH_INSTANCES: true
   # Set the secret key to encrypt and decrypt your token and its expiration time.
